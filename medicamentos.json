@@ -1,59 +1,69 @@
 [
   {
+    "id": 0,
     "nombre": "Paracetamol",
     "dosis": "500mg cada 6-8 horas",
     "para_que_sirve": "Alivio del dolor y reducción de la fiebre",
     "contraindicaciones": "Hipersensibilidad al paracetamol, insuficiencia hepática"
   },
   {
+    "id": 1,
     "nombre": "Ibuprofeno",
     "dosis": "400mg cada 6-8 horas",
     "para_que_sirve": "Alivio del dolor, inflamación y fiebre",
     "contraindicaciones": "Úlcera péptica activa, insuficiencia renal grave"
   },
   {
+    "id": 2,
     "nombre": "Amoxicilina",
     "dosis": "500mg cada 8 horas",
     "para_que_sirve": "Infecciones bacterianas",
     "contraindicaciones": "Alergia a penicilinas, insuficiencia renal grave"
   },
   {
+    "id": 3,
     "nombre": "Loratadina",
     "dosis": "10mg una vez al día",
     "para_que_sirve": "Alergias, rinitis alérgica, urticaria",
     "contraindicaciones": "Hipersensibilidad a loratadina"
   },
   {
+    "id": 4,
     "nombre": "Metformina",
     "dosis": "500mg dos veces al día",
     "para_que_sirve": "Diabetes tipo 2",
     "contraindicaciones": "Insuficiencia renal, acidosis metabólica"
   },
   {
+    "id": 5,
     "nombre": "Simvastatina",
     "dosis": "20mg una vez al día",
     "para_que_sirve": "Reducción del colesterol",
     "contraindicaciones": "Enfermedad hepática activa, embarazo"
   },
   {
+    "id": 6,
     "nombre": "Enalapril",
     "dosis": "10mg una vez al día",
     "para_que_sirve": "Hipertensión, insuficiencia cardíaca",
     "contraindicaciones": "Angioedema relacionado con tratamiento previo con inhibidores de la ECA"
   },
   {
+    "id": 7,
     "nombre": "Acido acetilsalicilico",
     "dosis": "100mg una vez al día",
     "para_que_sirve": "Prevención de eventos cardiovasculares",
     "contraindicaciones": "Úlcera péptica activa, hipersensibilidad a AINEs"
   },
   {
+    "id": 8,
     "nombre": "Omeprazol",
     "dosis": "20mg una vez al día",
     "para_que_sirve": "Reflujo gastroesofágico, úlcera péptica",
     "contraindicaciones": "Hipersensibilidad al omeprazol"
   },
   {
+    "id": 9,
     "nombre": "Clonazepam",
     "dosis": "0.5mg dos veces al día",
     "para_que_sirve": "Ansiedad, trastornos convulsivos",
